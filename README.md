@@ -1,1 +1,1 @@
-Android Studio -Kotlin login sayfası
+'monospace' Android Studio -Kotlin login sayfası
