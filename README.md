@@ -1,1 +1,1 @@
-basit bir giriş ekranı tasarımı
+Android Studio -Kotlin login sayfası
